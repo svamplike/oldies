@@ -1,5 +1,5 @@
-# dumpyard
-dumpyard for projects
+# oldies
+older projects
 This for now includes two project at the time of 12-01-2022 9:43 PM
 1) Sudoku with Solving Capabilites(Backtracking Basically)
 2) Wordle With Solving Capabilites(Basic Stack-queue/loops-list)
