@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Osc1 Range",
+        "id": 0,
+        "val": 0.5,
+        "steps": 5
+    },
+    {
+        "name": "Osc1 Wave",
+        "id": 5,
+        "val": 0.417,
+        "steps": 5
+    },
+    {
+        "name": "Volume 1",
+        "id": 8,
+        "val": 0.789,
+        "steps": 128
+    },
+    {
+        "name": "Cutoff",
+        "id": 11,
+        "val": 1.0,
+        "steps": 128
+    },
+    {
+        "name": "Resonance",
+        "id": 12,
+        "val": 0.0,
+        "steps": 128
+    },
+    {
+        "name": "Filt Attack",
+        "id": 13,
+        "val": 0.0,
+        "steps": 128
+    },
+    {
+        "name": "Filt Decay",
+        "id": 14,
+        "val": 0.16,
+        "steps": 128
+    },
+    {
+        "name": "LFO Rate",
+        "id": 22,
+        "val": 0.25,
+        "steps": 128
+    },
+    {
+        "name": "Play Mode",
+        "id": 26,
+        "val": 0.5,
+        "steps": 2
+    },
+    {
+        "name": "Glide Time",
+        "id": 27,
+        "val": 0.0,
+        "steps": 128
+    }
+]
